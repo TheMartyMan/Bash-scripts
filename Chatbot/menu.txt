@@ -1,0 +1,5 @@
+
+Miben segíthetek?
+A) Információ a termékről
+B) Hibajelentés
+C) A termék értékelése

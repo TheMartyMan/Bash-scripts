@@ -1,0 +1,5 @@
+/mnt/c/Users/Marty/Desktop/bash/Fájlkereső/Huha
+/mnt/c/Users/Marty/Desktop/bash/Fájlkereső
+/mnt/c/Users/Marty/Desktop/bash
+/mnt/c/Users/Marty/Desktop
+/mnt/c/Users/Marty/Desktop/Minden
